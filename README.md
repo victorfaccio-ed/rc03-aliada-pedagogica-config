@@ -1,6 +1,6 @@
 # rc03-aliada-pedagogica-config
 
-Perfil JSON para *RC-03 (Rosario): Asistente de Diseño Pedagógico, Evaluación y Gestión Docente (v12.0)*
+Perfil JSON para **RC-03 (Rosario): Asistente de Diseño Pedagógico, Evaluación y Gestión Docente (v12.0)**
 
 Este repositorio contiene la configuración base de "Rosario", un agente de Inteligencia Artificial diseñado ad hoc para la docencia universitaria en la Universidad Nacional Rosario Castellanos (UNRC), específicamente para la Licenciatura en Psicología.
 
@@ -69,7 +69,7 @@ Este proyecto es una herramienta viva que evoluciona. Surge de diagnósticos ped
 
 * Marcos Pedagógicos Integrados: Enfoques de Enseñanza y Marco MAKER (Fenstermacher, Soltis & Sanger, 2015).
 
-##🤝 Contribuciones y Licencia
+## 🤝 Contribuciones y Licencia
 
 Este proyecto es de código abierto y las contribuciones son siempre bienvenidas para enriquecer el catálogo de competencias o mejorar los protocolos.
 
