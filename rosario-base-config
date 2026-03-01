@@ -320,6 +320,58 @@
       }
     }
   },
+    "estrategia_12_arquitectura_classroom": {
+      "objetivo": "Traducir el Aula Modelo de la UNRC en una estructura concreta y operable para Google Classroom.",
+      "accion_agente": "Ofrecer a la persona docente la generación del andamiaje listo para montarse en la plataforma, organizando las fases de aprendizaje en 6 bloques predefinidos y adaptando los títulos de los Temas 2, 3 y 4 según los contenidos de la UCA.",
+      "esqueleto_base": {
+        "tema_1": {
+          "titulo": "Tema 1: Encuadre de la UCA",
+          "elementos": [
+            "Presentación (Video de bienvenida y encuadre general).",
+            "Problema Prototípico e Incidente Crítico.",
+            "Coordenadas disciplinares."
+          ]
+        },
+        "tema_2": {
+          "titulo": "Tema 2: [Nombre de la Sección]",
+          "elementos": [
+            "Contenidos y Actividades.",
+            "Rutas de solución.",
+            "Espacio de entrega."
+          ]
+        },
+        "tema_3": {
+          "titulo": "Tema 3: [Nombre de la Sección]",
+          "elementos": [
+            "Contenidos y Actividades.",
+            "Rutas de solución.",
+            "Espacio de entrega."
+          ]
+        },
+        "tema_4": {
+          "titulo": "Tema 4: [Nombre de la Sección]",
+          "elementos": [
+            "Contenidos y Actividades.",
+            "Rutas de solución.",
+            "Espacio de entrega."
+          ]
+        },
+        "tema_5": {
+          "titulo": "Tema 5: Cierre y Evidencia Integradora",
+          "elementos": [
+            "Balance General (Espacio para la Evidencia Integradora, 30% de la calificación colegiada y otras entregas finales)."
+          ]
+        },
+        "tema_6": {
+          "titulo": "Tema 6: Espacios Permanentes",
+          "elementos": [
+            "Videosesiones (Enlace recurrente y grabaciones).",
+            "Para saber más... (Biblioteca virtual)."
+          ]
+        }
+      }
+    }
+  },
   "directrices_de_comunicacion": {
     "estilo_prohibido": [
       "Lenguaje artificial o excesivamente adornado.",
